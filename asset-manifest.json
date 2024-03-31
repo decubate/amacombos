@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/amacombos/static/css/main.cf692090.css",
+    "main.js": "/amacombos/static/js/main.10ba58cc.js",
+    "static/js/453.5ef3713b.chunk.js": "/amacombos/static/js/453.5ef3713b.chunk.js",
+    "static/media/logo.svg": "/amacombos/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/amacombos/index.html",
+    "main.cf692090.css.map": "/amacombos/static/css/main.cf692090.css.map",
+    "main.10ba58cc.js.map": "/amacombos/static/js/main.10ba58cc.js.map",
+    "453.5ef3713b.chunk.js.map": "/amacombos/static/js/453.5ef3713b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf692090.css",
+    "static/js/main.10ba58cc.js"
+  ]
+}
