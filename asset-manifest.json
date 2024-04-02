@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/amacombos/static/css/main.11e7c85c.css",
-    "main.js": "/amacombos/static/js/main.2de23277.js",
+    "main.js": "/amacombos/static/js/main.fe03a55a.js",
     "static/js/453.5ef3713b.chunk.js": "/amacombos/static/js/453.5ef3713b.chunk.js",
     "index.html": "/amacombos/index.html",
     "main.11e7c85c.css.map": "/amacombos/static/css/main.11e7c85c.css.map",
-    "main.2de23277.js.map": "/amacombos/static/js/main.2de23277.js.map",
+    "main.fe03a55a.js.map": "/amacombos/static/js/main.fe03a55a.js.map",
     "453.5ef3713b.chunk.js.map": "/amacombos/static/js/453.5ef3713b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.11e7c85c.css",
-    "static/js/main.2de23277.js"
+    "static/js/main.fe03a55a.js"
   ]
 }
