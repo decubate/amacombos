@@ -63,7 +63,12 @@ def extract_glaze_ids(url):
 def main():
     glazes = fetch_glazes()
     print(f"\nGlazes: {glazes}")
+
     combinations_dict = {}
+
+    with open('glaze_combinations.json', 'r') as file:
+        data = json.load(file)
+        combinations_dict = data
 
     for glaze in glazes:
         print(f"\nFetching combinations for {glaze}...")
